@@ -14,11 +14,5 @@ This repository hosts a comprehensive analysis aimed at understanding and predic
 - Machine Learning Models: Implementation and evaluation of multiple models, including Linear Regression, Random Forest, and Gradient Boosting Machines (GBM), to predict carbon emissions based on selected predictors.
 - Model Comparison and Evaluation: Assessment of model performance through metrics such as Mean Squared Error (MSE) and R-squared (R²) to identify the most effective predictive model.
 
-# Repository Structure
-- notebooks/: Jupyter notebooks containing the detailed analysis, from data preprocessing to model evaluation.
-- data/: Dataset used for the analysis.
-- src/: Source code for data preprocessing, modeling, and evaluation utilities.
-- README.md: Provides an overview of the project, installation instructions, and usage guidelines.
-
 # Contributing
 Contributions to improve the analysis or extend the dataset are welcome. Please refer to the contributing guidelines for more information on how to submit pull requests or report issues.
