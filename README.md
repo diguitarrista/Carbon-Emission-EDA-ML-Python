@@ -1,4 +1,4 @@
-# Carbon-Emission-DA-ML-Python
+# Carbon Emission Data Analysis and Machine Learning
 Predicting Carbon Emissions with ML: Analyzing lifestyle impacts on carbon footprints using Linear Regression, Random Forest, and GBM models to identify reduction strategies.
 
 This repository hosts a comprehensive analysis aimed at understanding and predicting individual carbon emissions based on a variety of lifestyle factors. Leveraging machine learning techniques, this project explores the intricate relationships between daily habits—such as transportation choices, dietary preferences, and energy usage—and their impact on carbon footprints. The ultimate goal is to uncover insights that can inform sustainable living practices and contribute to the global effort in reducing carbon emissions.
